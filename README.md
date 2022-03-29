@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IgorCVidal
 - 👀 I’m interested in Python and Backend!
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning nodejs!
 
 I've been neglecting my github for a while and plan to update it with my more recent projects soon. 
 
